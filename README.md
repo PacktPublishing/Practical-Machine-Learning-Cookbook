@@ -16,11 +16,11 @@ install.packages("ggplot2")
 This book is focused on building machine learning-based applications in R. We have used R to build various solutions. We focused on how to utilize various R libraries and functions in the best possible way to overcome real-world challenges. We have tried to keep all the code as friendly and readable as possible. We feel that this will enable our readers to easily understand the code and readily use it in different scenarios.
 
 ##Related Products
-* []()
+* [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
 
-* []()
+* [Practical Data Analysis - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-analysis-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785289712)
 
-* []()
+* [Practical Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/practical-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781784399689)
 
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
